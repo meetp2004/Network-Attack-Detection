@@ -25,7 +25,7 @@
   
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 2. Install the required dependencies
 ### Training
 Train all models by running training.py
