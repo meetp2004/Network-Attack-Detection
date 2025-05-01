@@ -1,7 +1,5 @@
 # Network Attack Detection using Machine Learning
 
-## Model Architecture
-
 ### 1. Hierarchical SVM
 - Level 1: Binary classification (Benign vs Attack)
 - Level 2: Attack group classification (DoS/DDoS, Brute Force, Reconnaissance)
